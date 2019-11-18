@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/trufflesuite/ganache/blob/develop/static/icons/png/128x128.png?raw=true")
+       1
 </p>
 
 ## Ganache
